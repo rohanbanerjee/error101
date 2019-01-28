@@ -9,8 +9,6 @@ You just need to need to copy and paste the error in the command line itself, an
 ```
 pip install error101 
 ```
-<br />
-
 ## **Usage**
 ```
 error101 "mention the error"
@@ -24,7 +22,6 @@ For example,
 
 As you can see above, the links to solve the error is shown in the cli. You can then use the links to solve the errors!
 
-This package was made in 12 hours, with :pizza: & :heart:
-Show some love yo!
+This package was made in 12 hours, with :pizza: & :heart:.
 
 ### Special thanks to [@rounakdatta]( https://github.com/rounakdatta)
