@@ -24,4 +24,4 @@ As you can see above, the links to solve the error is shown in the cli. You can 
 
 This package was made in 12 hours, with :pizza: & :heart:.
 
-### Special thanks to [@rounakdatta]( https://github.com/rounakdatta)
+**Special thanks to [@rounakdatta]( https://github.com/rounakdatta)**
